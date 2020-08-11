@@ -104,6 +104,6 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video: https://youtu.be/8cN4PE3ME-M
 	
 ## Contributors
-**Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com)
+**Main Contributor**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 전지예 (jyeah05@gmail.com), 이상헌 (lsh110600@naver.com)
 
-**Presenters**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 문정우 (jwmjw9009@naver.com), 전지예 (jyeah05@gmail.com)
+**Presenters**: Constant Park (sonicstage12@naver.com), 이원혁 (louislee111@naver.com), 이재윤 (v2fds@naver.com), Hyuntak Lim (loo3944@naver.com), Yongwoo Kim (yongwoo.kim@smu.ac.kr), Jemin Lee (leejaymin@etri.re.kr), 문정우 (jwmjw9009@naver.com), 전지예 (jyeah05@gmail.com), 이상헌 (lsh110600@naver.com)
